@@ -1,4 +1,4 @@
-# Data-Analysis-Dahboard
+#Gurugram-Hospital-Dashboard
 This project analyzes hospital workflow, patient admissions, diagnosis, billing, and doctor feedback.                                                                                      
 Using Excel for data preparation and Power BI for visualization, we created an interactive dashboard to monitor:
 
