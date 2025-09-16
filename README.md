@@ -5,10 +5,10 @@ Using Excel for data preparation and Power BI for visualization, we created an i
 #Dataset used 
 - <a href="https://github.com/Rajankumar19/Data-Analysis-Dahboard/blob/22dead4ddec696b23a0b375fcd20288fcdb686e2/Healtcare-Dataset.xlsx"> Dataset </a>
 
-## Key Questions (KPIs)
-1.Bed Occupancy:
--How many patients were admitted to Private, General, and ICU wards?.
-2.Billing & Insurance:
+## Key Questions (KPIs)                                                                                                                                                                    
+1.Bed Occupancy:                                                                                                                                                                           
+-How many patients were admitted to Private, General, and ICU wards?.                                                                                                                      
+2.Billing & Insurance:                                                                                                                                                                     
 -What is the total hospital billing vs. insurance coverage across diagnosis types?.
 -Which diagnosis contributes the most to hospital revenue?.
 3.Diagnosis Insights:
